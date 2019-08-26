@@ -1,0 +1,40 @@
+{
+  "MOD_hmi": {
+    "adminpass": "root", 
+    "adminuser": "root", 
+    "insert": "y", 
+    "mapid": 0, 
+    "project": 0
+  }, 
+  "MOD_hw": {
+    "plantform": "GG"
+  }, 
+  "MOD_os": {
+    "download_dir": "/home/worker/download_os/", 
+    "os_type": 1.5, 
+    "version": "2018-12-12"
+  }, 
+  "MOD_uos": {
+    "branch": "product", 
+    "download_dir": "/home/worker/download_uos", 
+    "full_mode": 0, 
+    "install_dir": "/home/worker/uos/run", 
+    "recover_dir": "/home/worker/uos/run_orig", 
+    "tmp_dir": "/home/worker/uos/run_new", 
+    "uos_path": "/home/worker/uos/run", 
+    "version": "2019-03-29"
+  }, 
+  "cluster_mode": "true", 
+  "location": "liuzhou", 
+  "mac": "00:04:4b:a8:20:0d", 
+  "node": "master", 
+  "ota-client": "2019-04-19", 
+  "port": 8883, 
+  "project": "avp", 
+  "server": "210.82.72.162", 
+  "slave": "192.168.100.98", 
+  "username": "worker", 
+  "vehicle_id": "car8", 
+  "vehicle_model": "e100", 
+  "vehicle_vin": "XXXXXXXXX"
+}
